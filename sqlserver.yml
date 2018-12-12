@@ -2,7 +2,7 @@
 - hosts: localhost
   connection: local
   gather_facts: False
-  pre-tasks:
+  pre_tasks:
    - include_vars: ec2-vars/{{type}}.yml
   roles: 
      - ec2
