@@ -8,5 +8,5 @@ ec2_region: "eu-west-2"
 ec2_tag_Name: "GW SQL Server"
 ec2_tag_Type: "EC2 SQL SERVER"
 ec2_tag_Environment: "Dev"
-ec2_volume_size: 16
+ec2_volume_size: 50
 
