@@ -10,7 +10,7 @@
       - device_name: /dev/xvda
         volume_type: gp2
         volume_size: 10
-    vpc_subnet_id: vpc-980cfbe2
+    vpc_subnet_id: vpc-090b65ca11633b800
     assign_public_ip: yes
     count_tag:
       Name: dbserver
