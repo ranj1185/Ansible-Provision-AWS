@@ -3,6 +3,6 @@
   connection: local
   gather_facts: False
   pre-tasks:
-   - include_vars: ec2_vars/{{type}}.yml
+   - include_vars: ec2-vars/{{type}}.yml
   roles: 
      - ec2
