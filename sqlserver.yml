@@ -1,5 +1,5 @@
 ec2_keypair: "ranjitTestLondon"
-ec2_security_group: "REDACTED"
+ec2_security_group: "sg-0b915f3c217d39aaf"
 ec2_instance_type: "m4.large"
 ec2_image: "ami-0d6431f36860d0aa1"
 ec2_subnet_ids: ['subnet-082dbd9dbf44d97ee']
