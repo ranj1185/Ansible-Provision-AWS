@@ -1,0 +1,12 @@
+
+ec2_keypair: "ranjitTestLondon"
+ec2_security_group: "sg-0b915f3c217d39aaf"
+ec2_instance_type: "m4.large"
+ec2_image: "ami-0d6431f36860d0aa1"
+ec2_subnet_ids: ['subnet-082dbd9dbf44d97ee']
+ec2_region: "eu-west-2"
+ec2_tag_Name: "GW SQL Server"
+ec2_tag_Type: "EC2 SQL SERVER"
+ec2_tag_Environment: "Dev"
+ec2_volume_size: 16
+
